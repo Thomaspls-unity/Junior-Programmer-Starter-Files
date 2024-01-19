@@ -65,7 +65,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: dea5c46ca71356b4f982a5963079ed96, type: 3}
       propertyPath: m_Name
-      value: Forklift
+      value: OptimUnit
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: dea5c46ca71356b4f982a5963079ed96, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8757203630472435304, guid: dea5c46ca71356b4f982a5963079ed96, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dea5c46ca71356b4f982a5963079ed96, type: 3}
